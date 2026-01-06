@@ -1,43 +1,91 @@
 # 👋 Hi, I'm Malan Sathyanaarayan
 
-## 🚀 About Me
-Software Developer | Cloud Automation Specialist | Telecommunications Domain Expert
+## 🚀 Software Developer | Cloud Automation Specialist | Telecommunications Expert
 
-I build scalable cloud-native applications using Python, Java, and C++. Currently focused on serverless architectures, DevOps automation, and secure system design.
+I design and build scalable cloud-native applications using **Python**, **Java**, and **C++**. Currently focused on serverless architectures, DevOps automation, and secure system design with expertise in AWS, Azure, and GCP.
+
+🎓 **Education:** Postgraduate in Cloud Computing & Wireless Telecommunications (Humber Polytechnic)  
+📍 **Location:** Toronto, Canada  
+🔐 **Clearance:** Eligible for Enhanced Reliability Status (ERS)
+
+---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, Java, C/C++, SQL, JavaScript, Shell  
-**Cloud:** AWS, Azure, GCP  
-**DevOps:** Docker, Kubernetes, Terraform, Ansible, CI/CD  
-**Frameworks:** FastAPI, Spring, React.js  
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Frameworks & Tools:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 🎯 Featured Projects
-- [AI Terraform Code Generator](link) - Full-stack AI-powered IaC tool
-- [Serverless Library System](link) - AWS Lambda + Cognito + DynamoDB
-- [Kubernetes Auto-Healing Platform](link) - GKE + Prometheus + Grafana
 
-## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/malan-vs](https://linkedin.com/in/malan-vs)
-- Email: vsmalan23@gmail.com
-- Location: Toronto, Canada
+### 🤖 [AI Terraform Code Generator](https://github.com/MalanSathya/terraformcoder-ai)
+Full-stack AI-powered infrastructure-as-code tool using FastAPI, React.js, and Codestral model. Features JWT authentication and achieves 99.5% uptime.  
+**Tech:** Python, FastAPI, React.js, JWT, Vercel, Railway
+
+### ☁️ [Serverless Library Management System](https://github.com/MalanSathya/library-app)
+AWS Lambda-based application handling 1,000+ monthly transactions with Cognito authentication and DynamoDB storage.  
+**Tech:** AWS Lambda, API Gateway, DynamoDB, Cognito, Python, CloudFormation
+
+### 🔧 [Hybrid Cloud Automation Framework](https://github.com/MalanSathya/ansible_terraform_project)
+OS-agnostic automation suite managing 15+ VMs across AWS and Azure, reducing task execution time by 70%.  
+**Tech:** Ansible, Terraform, Python, Jinja2, Linux, Windows Server
+
+### 📊 [Azure Infrastructure Automation](https://github.com/MalanSathya/terraform_project)
+Modular Terraform templates for compute, networking, and database automation with cost-saving policies.  
+**Tech:** Terraform, Azure, Ansible, HCL
+
+---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MalanSathya&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=MalanSathya&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark&hide_border=true)
 
+---
 
-<!--
-**MalanSathya/MalanSathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Achievements
 
-Here are some ideas to get you started:
+- 📚 **Mentored 100+ students** in Cloud Computing, Kubernetes, and DevOps at Humber Polytechnic
+- 🎓 **Dual Postgraduate Certificates** in Cloud Computing (83.8/100) & Wireless Telecommunications (92.7/100)
+- 🔐 **Security-Focused Development:** Implemented OAuth 2.0, JWT, and Cognito authentication across multiple projects
+- 📡 **Telecommunications Expertise:** GPON networks, 5G testing automation, VoIP systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malan-vs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsmalan23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalanSathya)
+
+---
+
+## 💼 Currently
+
+🔍 Seeking **Software Developer** roles in **Cloud Computing**, **DevOps**, and **Telecommunications**  
+🎯 Open to **Full-time** opportunities in **Toronto/Ottawa** or **Remote**  
+📚 Preparing for **AWS Certified Solutions Architect – Associate** (Q2 2025)
+
+---
+
+*"Building secure, scalable systems that solve complex technical problems"*
