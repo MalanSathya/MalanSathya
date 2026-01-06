@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Malan Sathyanaarayan
+#  Hi, I'm Malan Sathyanaarayan
 
-## 🚀 Software Developer | Cloud Automation Specialist | Telecommunications Expert
+## Software Developer | Cloud Automation Specialist | Telecommunications Expert
 
 I design and build scalable cloud-native applications using **Python**, **Java**, and **C++**. Currently focused on serverless architectures, DevOps automation, and secure system design with expertise in AWS, Azure, and GCP.
 
@@ -10,7 +10,7 @@ I design and build scalable cloud-native applications using **Python**, **Java**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ I design and build scalable cloud-native applications using **Python**, **Java**
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### 🤖 [AI Terraform Code Generator](https://github.com/MalanSathya/terraformcoder-ai)
 Full-stack AI-powered infrastructure-as-code tool using FastAPI, React.js, and Codestral model. Features JWT authentication and achieves 99.5% uptime.  
@@ -56,14 +56,14 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MalanSathya&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - 📚 **Mentored 100+ students** in Cloud Computing, Kubernetes, and DevOps at Humber Polytechnic
 - 🎓 **Dual Postgraduate Certificates** in Cloud Computing (83.8/100) & Wireless Telecommunications (92.7/100)
@@ -72,7 +72,7 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malan-vs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsmalan23@gmail.com)
@@ -80,7 +80,7 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-## 💼 Currently
+##  Currently
 
 🔍 Seeking **Software Developer** roles in **Cloud Computing**, **DevOps**, and **Telecommunications**  
 🎯 Open to **Full-time** opportunities in **Toronto/Ottawa** or **Remote**  
