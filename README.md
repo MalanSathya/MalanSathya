@@ -56,10 +56,12 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MalanSathya&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalanSathya&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 ---
 
