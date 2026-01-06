@@ -84,7 +84,7 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 🔍 Seeking **Software Developer** roles in **Cloud Computing**, **DevOps**, and **Telecommunications**  
 🎯 Open to **Full-time** opportunities in **Toronto/Ottawa** or **Remote**  
-📚 Preparing for **AWS Certified Solutions Architect – Associate** (Q2 2025)
+📚 Preparing for **AWS Certified Solutions Architect – Associate**
 
 ---
 
