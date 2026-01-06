@@ -56,10 +56,10 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalanSathya&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalanSathya&theme=react-dark&hide_border=true" alt="activity graph" />
 </div>
 
 ---
