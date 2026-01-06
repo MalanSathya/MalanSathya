@@ -56,11 +56,10 @@ Modular Terraform templates for compute, networking, and database automation wit
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MalanSathya&theme=github-dark&hide_border=true" height="180" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalanSathya&layout=compact&theme=github_dark&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MalanSathya&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
 ---
